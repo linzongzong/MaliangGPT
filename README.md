@@ -7,7 +7,7 @@
 
 ## Project Description
 
-MaliangGPT is a project that leverages Azure's ChatGPT to provide capabilities for translation, rewriting, and expansion of text. The main implementation is achieved through prompts. You can run the project by clicking the `maliang` script under flod dist, which is compatible with both Windows and macOS.
+MaliangGPT is a project that leverages Azure's ChatGPT to provide capabilities for translation, rewriting, and expansion of text. The main implementation is achieved through prompts. You can run the project by clicking the `maliang` script under flod `\dist`, which is compatible with both Windows and macOS.
 
 ## Features
 
