@@ -5,6 +5,11 @@
 ![GitHub forks](https://img.shields.io/github/forks/linzongzong/MaliangGPT?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/linzongzong/MaliangGPT?style=social)
 
+## Example
+More convenient operations, no need for additional input methods and web input.
+
+![Finshed in chatbox](example.png)
+
 ## Project Description
 
 MaliangGPT is a project that leverages Azure's ChatGPT to provide capabilities for translation, rewriting, and expansion of text. The main implementation is achieved through prompts. You can run the project by clicking the `maliang` script under flod `\dist`, which is compatible with both Windows and macOS.
@@ -63,5 +68,3 @@ We welcome and appreciate contributions in any form! If you wish to contribute t
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-Please save the above content as the `README.md` file in the root directory of your project. Adjust the text and links as needed based on your actual project details.
